@@ -77,8 +77,8 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 - ICML 2020, 2021 (expert), 2022
 - NeurIPS 2020, 2021
 - ICLR 2021, 2022
-- ACML 2020
 - AAAI 2021
+- ACML 2020
 
 
 ## News Articles
