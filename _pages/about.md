@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="text-decoration:none">Machine Learning and Artificial Intelligence (MLAI) lab</a> in KAIST, under the supervision of [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). 
+
+<a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Prof. Sung Ju Hwang</a>
+
+I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="text-decoration:none">Machine Learning and Artificial Intelligence (MLAI) lab</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Prof. Sung Ju Hwang</a>. 
 
 My research interest includes:
 - Neural architecture search
