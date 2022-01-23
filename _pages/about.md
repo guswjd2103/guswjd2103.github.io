@@ -81,9 +81,10 @@ Hae Beom Lee\*, <u>Hayeon Lee*<\u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 ## Academic Services
 - ICML 2020, 2021 (expert), 2022
 - NeurIPS 2020, 2021
+- ICLR 2021, 2022
 - ACML 2020
 - AAAI 2021
-- ICLR 2021, 2022
+
 
 ## News Articles
 - [KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개](http://www.aitimes.com/news/articleView.html?idxno=141860), AI Times, 2021.12.08
