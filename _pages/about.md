@@ -17,24 +17,25 @@ My research interest includes:
 
 
 ## Education
-- **Ph.D.** in School of Computing, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) 
+- **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> 
    <font size="3">Mar. 2018 - Present</font> 
   
-- **M.S.** in School of Computing, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/)
+- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> 
    <font size="3">Mar. 2016 - Feb. 2018</font> 
 
-- **B.S.** in Computer Science, [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/) \\
+- **B.S.** in Computer Science, <a href="https://www.skku.edu/eng/" style="color: #7289da; text-decoration: none;">**Sungkyunkwan University (SKKU)**</a> \\
    <font size="3">Mar. 2012 - Feb. 2016</font>
 
 
 ## Conference Publications
 - **Online Hyperparameter Meta-Learning with Hypergradient Distillation** \\
-[[paper]](https://arxiv.org/abs/2110.02508) \\
+<a href="https://arxiv.org/abs/2110.02508" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Hae Beom Lee, <u>Hayeon Lee</u>, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
 <span style="color:darkred">**ICLR**</span> 2022 (To be appear)
 
 - **HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning** \\
-[[paper]](https://arxiv.org/abs/2106.08630) [[code]](https://github.com/HayeonLee/HELP)\\
+<a href="https://arxiv.org/abs/2106.08630" style="color: #7289da; text-decoration: none;">[paper]</a>
+<a href="https://arxiv.org/abs/2106.08630" style="color: #7289da; text-decoration: none;">[code]</a>
 <u>Hayeon Lee*</u>, Sewoong Lee\*, Song Chong, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">__Spotlight Presentation__</span> (acceptance < 3%) 
 
