@@ -17,14 +17,11 @@ My research interest includes:
 
 
 ## Education
-- **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> 
-   <font size="3">Mar. 2018 - Present</font> 
+- **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2018 - Present</font> 
   
-- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> 
-   <font size="3">Mar. 2016 - Feb. 2018</font> 
+- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2016 - Feb. 2018</font> 
 
-- **B.S.** in Computer Science, <a href="https://www.skku.edu/eng/" style="color: #7289da; text-decoration: none;">**Sungkyunkwan University (SKKU)**</a> \\
-   <font size="3">Mar. 2012 - Feb. 2016</font>
+- **B.S.** in Computer Science, <a href="https://www.skku.edu/eng/" style="color: #7289da; text-decoration: none;">**Sungkyunkwan University (SKKU)**</a>, <font size="3">Mar. 2012 - Feb. 2016</font>
 
 
 ## Conference Publications
@@ -87,12 +84,12 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 
 
 ## News Articles
-- [KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개](http://www.aitimes.com/news/articleView.html?idxno=141860), AI Times, 2021.12.08
+- <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">[KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개]</a>, AI Times, 2021.12.08
 
 
 ## Work Experiences
-- Research Intern, [Aitrics](https://www.aitrics.com/), Korea, 2021
-- Research Intern, [National AI Research Institute](https://www.etri.re.kr/intro.html), Korea, 2015
-- Developer Intern, [Samsung Electronics](https://developer.samsung.com/), Korea, 2015
+- Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">Aitrics</a>, Korea, 2021
+- Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">National AI Research Institute</a>, Korea, 2015
+- Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">Samsung Electronics</a>, Korea, 2015
 
 
