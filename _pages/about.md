@@ -84,7 +84,7 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 
 
 ## News Articles
-- <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">[KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개]</a>, AI Times, 2021.12.08
+- <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개</a>, AI Times, 2021.12.08
 
 
 ## Work Experiences
