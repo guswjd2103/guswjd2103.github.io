@@ -40,24 +40,24 @@ Hae Beom Lee, <u>Hayeon Lee</u>, Jaewoong Shin, Eunho Yang, Timothy Hospedales, 
 
 - **Task-Adaptive Neural Network Search with Meta-Contrastive Learning** \\
 [[paper]](https://arxiv.org/abs/2103.01495) [[code]](https://github.com/wyjeong/TANS)\\
-Wonyong Jeong\*, <u>Hayeon Lee*<\u>, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang \\
+Wonyong Jeong\*, <u>Hayeon Lee*</u>, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">**Spotlight Presentation**</span> (acceptance < 3%) 
 
 - **Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets** \\
 [[paper]](https://openreview.net/forum?id=rkQuFUmUOg3) [[code]](https://github.com/HayeonLee/MetaD2A) \\
-<u>Hayeon Lee*<\u>, Eunyoung Hyung\*, Sung Ju Hwang \\
+<u>Hayeon Lee*</u>, Eunyoung Hyung\*, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2021
 
 - **Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks** \\
 [[paper]](https://openreview.net/pdf?id=rkeZIJBYvr) [[code]](https://github.com/haebeom-lee/l2b) \\
-Hae Beom Lee\*, <u>Hayeon Lee*<\u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang \\
+Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2020, <span style="color:red">**Oral Presentation**</span> (acceptance = 48/2594 = 1.9%)
 
 - **Learning Spatial Relationships for Cross Modal Retrieval** \\
-<u>Hayeon Lee*<\u>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang\\
+<u>Hayeon Lee*</u>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang\\
 (\*: equal contribution) \\
 <span style="color:darkred">**CKAIA**</span> 2020
 
