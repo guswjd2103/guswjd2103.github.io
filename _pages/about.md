@@ -34,13 +34,13 @@ Hae Beom Lee, <u>Hayeon Lee</u>, Jaewoong Shin, Eunho Yang, Timothy Hospedales, 
 <a href="https://arxiv.org/abs/2106.08630" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/HayeonLee/HELP" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>Hayeon Lee*</u>, Sewoong Lee\*, Song Chong, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">__Spotlight Presentation__</span> (acceptance < 3%) 
+<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">_Spotlight Presentation_</span> (acceptance < 3%) 
 
 - **Task-Adaptive Neural Network Search with Meta-Contrastive Learning** \\
 <a href="https://arxiv.org/abs/2103.01495" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/wyjeong/TANS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Wonyong Jeong\*, <u>Hayeon Lee*</u>, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">__Spotlight Presentation__</span> (acceptance < 3%) 
+<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">_Spotlight Presentation_</span> (acceptance < 3%) 
 
 - **Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets** \\
 <a href="https://openreview.net/forum?id=rkQuFUmUOg3" style="color: #7289da; text-decoration: none;">[paper]</a>
@@ -52,7 +52,7 @@ Wonyong Jeong\*, <u>Hayeon Lee*</u>, Gun Park\*, Eunyoung Hyung, Jinheon Baek, S
 <a href="https://openreview.net/pdf?id=rkeZIJBYvr" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/haebeom-lee/l2b" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**ICLR**</span> 2020, <span style="color:red">__Oral Presentation__</span> (acceptance = 48/2594 = 1.9%)
+<span style="color:darkred">**ICLR**</span> 2020, <span style="color:red">_Oral Presentation_</span> (acceptance = 48/2594 = 1.9%)
 
 - **Learning Spatial Relationships for Cross Modal Retrieval** \\
 <u>Hayeon Lee*</u>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang (\*: equal contribution) \\
