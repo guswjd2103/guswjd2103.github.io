@@ -24,36 +24,36 @@ My research interest includes:
 
 
 ## Conference Publications
-- <font size="4">Online Hyperparameter Meta-Learning with Hypergradient Distillation</font>
+- **Online Hyperparameter Meta-Learning with Hypergradient Distillation** \\
 [[paper]](https://arxiv.org/abs/2110.02508) \\
 Hae Beom Lee, **Hayeon Lee**, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
 <span style="color:darkred">**ICLR**</span> 2022 (To be appear)
 
-- <font size="4">HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning</font>
+- **HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning** \\
 [[paper]](https://arxiv.org/abs/2106.08630) [[code]](https://github.com/HayeonLee/HELP)\\
 **Hayeon Lee\***, Sewoong Lee\*, Song Chong, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">**Spotlight Presentation**</span> (acceptance < 3%) 
 
-- <font size="4">Task-Adaptive Neural Network Search with Meta-Contrastive Learning</font>
+- **Task-Adaptive Neural Network Search with Meta-Contrastive Learning** \\
 [[paper]](https://arxiv.org/abs/2103.01495) [[code]](https://github.com/wyjeong/TANS)\\
 Wonyong Jeong\*, **Hayeon Lee\***, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">**Spotlight Presentation**</span> (acceptance < 3%) 
 
-- <font size="4">Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets</font>
+- **Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets** \\
 [[paper]](https://openreview.net/forum?id=rkQuFUmUOg3) [[code]](https://github.com/HayeonLee/MetaD2A) \\
 **Hayeon Lee\***, Eunyoung Hyung\*, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2021
 
-- <font size="4">Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks</font>
+- **Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks** \\
 [[paper]](https://openreview.net/pdf?id=rkeZIJBYvr) [[code]](https://github.com/haebeom-lee/l2b) \\
 Hae Beom Lee\*, **Hayeon Lee\***, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2020, <span style="color:red">**Oral Presentation**</span> (acceptance = 48/2594 = 1.9%)
 
-- <font size="4">Learning Spatial Relationships for Cross Modal Retrieval</font>
+- **Learning Spatial Relationships for Cross Modal Retrieval** \\
 **Hayeon Lee\***, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang\\
 (\*: equal contribution) \\
 <span style="color:darkred">**CKAIA**</span> 2020
@@ -66,12 +66,12 @@ Hae Beom Lee\*, **Hayeon Lee\***, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunh
 - ICLR Kyunghyun Cho Travel Grant (2020)
 
 ## Talks
-- <font size="4">"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"</font> 
+- **"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"** \\
   - @ Samsung Electronics DS DIT Center, Korea, April 2021
   - @ Korea Agency for Defence Development, Korea, October 2021
-- <font size="4">"Task-Adaptive Neural Network Search with Meta-Contrastive Learning"</font> 
+- **"Task-Adaptive Neural Network Search with Meta-Contrastive Learning"** \\
   - @ NeurIPS Social: ML in Korea, Dec 2021
-- <font size="4">"HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning"</font> 
+- **"HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning"** \\
   - @ NeurIPS Social: ML in Korea, Dec 2021
 
 
