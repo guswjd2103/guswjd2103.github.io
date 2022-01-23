@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hayeon Lee"
+title: "About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from:
@@ -16,14 +16,14 @@ My research interest includes:
 
 
 ## Education
-- **Ph.D.** in School of Computing, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) \\ 
-  Mar. 2018 - Present \\
+- **Ph.D.** in School of Computing, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) 
+   <font size="3">Mar. 2018 - Present</font> 
   
 - **M.S.** in School of Computing, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/)
-  Mar. 2016 - Feb. 2018 \\
+   <font size="3">Mar. 2016 - Feb. 2018</font> 
 
-- **B.S.** in Computer Science, [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/) \\ 
-  Mar. 2012 - Feb. 2016
+- **B.S.** in Computer Science, [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/)
+   <font size="3">Mar. 2012 - Feb. 2016</font>
 
 
 ## Conference Publications
@@ -34,30 +34,30 @@ Hae Beom Lee, <u>Hayeon Lee</u>, Jaewoong Shin, Eunho Yang, Timothy Hospedales, 
 
 - **HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning** \\
 [[paper]](https://arxiv.org/abs/2106.08630) [[code]](https://github.com/HayeonLee/HELP)\\
-<u>Hayeon Lee\*</u>, Sewoong Lee\*, Song Chong, Sung Ju Hwang \\
+<u>Hayeon Lee*</u>, Sewoong Lee\*, Song Chong, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">**Spotlight Presentation**</span> (acceptance < 3%) 
 
 - **Task-Adaptive Neural Network Search with Meta-Contrastive Learning** \\
 [[paper]](https://arxiv.org/abs/2103.01495) [[code]](https://github.com/wyjeong/TANS)\\
-Wonyong Jeong\*, **Hayeon Lee\***, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang \\
+Wonyong Jeong\*, <u>Hayeon Lee*<\u>, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">**Spotlight Presentation**</span> (acceptance < 3%) 
 
 - **Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets** \\
 [[paper]](https://openreview.net/forum?id=rkQuFUmUOg3) [[code]](https://github.com/HayeonLee/MetaD2A) \\
-**Hayeon Lee\***, Eunyoung Hyung\*, Sung Ju Hwang \\
+<u>Hayeon Lee*<\u>, Eunyoung Hyung\*, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2021
 
 - **Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks** \\
 [[paper]](https://openreview.net/pdf?id=rkeZIJBYvr) [[code]](https://github.com/haebeom-lee/l2b) \\
-Hae Beom Lee\*, **Hayeon Lee\***, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang \\
+Hae Beom Lee\*, <u>Hayeon Lee*<\u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2020, <span style="color:red">**Oral Presentation**</span> (acceptance = 48/2594 = 1.9%)
 
 - **Learning Spatial Relationships for Cross Modal Retrieval** \\
-**Hayeon Lee\***, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang\\
+<u>Hayeon Lee*<\u>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang\\
 (\*: equal contribution) \\
 <span style="color:darkred">**CKAIA**</span> 2020
 
