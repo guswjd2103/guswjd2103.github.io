@@ -22,7 +22,7 @@ My research interest includes:
 - **M.S.** in School of Computing, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/)
    <font size="3">Mar. 2016 - Feb. 2018</font> 
 
-- **B.S.** in Computer Science, [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/)
+- **B.S.** in Computer Science, [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/) \\
    <font size="3">Mar. 2012 - Feb. 2016</font>
 
 
