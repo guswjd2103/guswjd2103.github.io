@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hayeon Lee"
   avatar           : "hylee.png"
-  bio              : "Ph.D student at School of Computing, Korea Advanced Institute of Science and Technology (KAIST)""
+  bio              : "Ph.D student at School of Computing, Korea Advanced Institute of Science and Technology (KAIST)"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5DaLgBUAAAAJ&hl=ko"
-  email            :
+  email            : "hayeon926@kaist.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
