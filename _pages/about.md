@@ -16,11 +16,11 @@ My research interest includes:
 
 
 ## Education
-- Ph.D. in School of Computing, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/), Mar. 2018 - Present \\
+- **Ph.D.** in School of Computing, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/), Mar. 2018 - Present \\
   
-- M.S. in School of Computing, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/), Mar. 2016 - Feb. 2018 \\
+- **M.S.** in School of Computing, [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/), Mar. 2016 - Feb. 2018 \\
 
-- B.S. in Computer Science, [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/), Mar. 2012 - Feb. 2016
+- **B.S.** in Computer Science, [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/), Mar. 2012 - Feb. 2016
 
 
 ## Conference Publications
