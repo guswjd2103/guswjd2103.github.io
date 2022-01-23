@@ -29,12 +29,12 @@ My research interest includes:
 ## Conference Publications
 - **Online Hyperparameter Meta-Learning with Hypergradient Distillation** \\
 [[paper]](https://arxiv.org/abs/2110.02508) \\
-Hae Beom Lee, **Hayeon Lee**, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
+Hae Beom Lee, <u>Hayeon Lee</u>, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
 <span style="color:darkred">**ICLR**</span> 2022 (To be appear)
 
 - **HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning** \\
 [[paper]](https://arxiv.org/abs/2106.08630) [[code]](https://github.com/HayeonLee/HELP)\\
-**Hayeon Lee\***, Sewoong Lee\*, Song Chong, Sung Ju Hwang \\
+<u>Hayeon Lee\*</u>, Sewoong Lee\*, Song Chong, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">**Spotlight Presentation**</span> (acceptance < 3%) 
 
