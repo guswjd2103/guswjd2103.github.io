@@ -102,4 +102,4 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 ## Projects
 - Human-Inspired Large-Scale Visual Recognition System, **Samsung Electronics**, 2018-2022
 
-- AutoML with Large-scale Hyperparameter Meta Learning, **Google**, 2022-Present
+- AutoML with Large-scale Hyperparameter Meta-Learning, **Google**, 2022-Present
