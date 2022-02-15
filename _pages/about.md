@@ -67,7 +67,7 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 
 
 ## Awards & Honors
-- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">AI/CS/EE Rising Starts 2022 (Sponsored by Google Research; 2022)</a>
+- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">AI/CS/EE Rising Stars 2022 (Sponsored by Google Research; 2022)</a>
 - The Best Presentation Award at KAIST-Korea Agency for Defence Development Workshop (2021)
 - ICML Top Reviewer (2020)
 - NAVER Ph.D. Fellowship Award (2020)
