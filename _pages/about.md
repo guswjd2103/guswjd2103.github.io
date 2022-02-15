@@ -18,15 +18,15 @@ My research interest includes:
 ## News
 Feb. 2022. AI/CS/EE Rising stars award \\
 Feb. 2022. I recevied summer research internship offer from **Meta AI**, Seattle, WA, USA \\
-Jan. 2022. One paper accepted to **ICLR 2022** as **Spotlight** Presentation \\
+Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span> \\
 Oct. 2021. Best presentation award at KAIST-ADD workshop \\
-Sep. 2021. Two papers accepted to **NeurIPS 2021** as **Spotlight** Presentations \\
+Sep. 2021. Two papers accepted to **NeurIPS 2021** as <span style="color:red">Spotlight Presentations</span> \\
 Apr. 2021. Invited talk at Samsung, Suwon, South Korea \\
 Jan. 2021. One paper accepted to **ICLR 2021** \\
 Dec. 2020. Start of my internship at **AITRICS**, Seoul, South Korea \\
 Dec. 2020. ICML top reviewer Award \\
 Nov. 2020. NAVER Ph.D. fellowship award \\
-Dec. 2019. One paper accepted to **ICLR 2020** as **Oral** Presentation 
+Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral Presentation</span>
 
 
 
