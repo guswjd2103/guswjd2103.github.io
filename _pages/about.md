@@ -15,6 +15,19 @@ My research interest includes:
 - Meta-learning
 - AutoML
 
+## News
+- Dec. 2019. One paper accepted to ICLR 2020 as Oral Presentation
+- Nov. 2020. NAVER Ph.D. Fellowship Award
+- Dec. 2020. ICML Top Reviewer Award
+- Dec. 2020. Start of my internship at AITRICS, Seoul, South Korea
+- Jan. 2021. One paper accepted to ICLR 2021
+- Apr. 2021. Invited Talk at Samsung, Suwon, South Korea
+- Sep. 2021. Two papers accepted to NeurIPS 2021 as Spotlight Presentations
+- Oct. 2021. Best Presentation Award at KAIST-ADD workshop
+- Jan. 2022. One paper accepted to ICLR 2022 as Spotlight Presentation
+- Feb. 2022. Offered Summer Internship at Meta AI, Seattle, WA, USA
+- Feb. 2022. AI/CS/EE Rising Stars Award
+
 
 ## Education
 - **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2018 - Present</font> 
