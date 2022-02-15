@@ -16,17 +16,17 @@ My research interest includes:
 - AutoML
 
 ## News
-- Feb. 2022. AI/CS/EE Rising Stars Award
-- Feb. 2022. I recevied summer research internship offer from Meta AI, Seattle, WA, USA
-- Jan. 2022. One paper accepted to ICLR 2022 as Spotlight Presentation
-- Oct. 2021. Best Presentation Award at KAIST-ADD workshop
-- Sep. 2021. Two papers accepted to NeurIPS 2021 as Spotlight Presentations
-- Apr. 2021. Invited Talk at Samsung, Suwon, South Korea
-- Jan. 2021. One paper accepted to ICLR 2021
-- Dec. 2020. Start of my internship at AITRICS, Seoul, South Korea
-- Dec. 2020. ICML Top Reviewer Award
-- Nov. 2020. NAVER Ph.D. Fellowship Award
-- Dec. 2019. One paper accepted to ICLR 2020 as Oral Presentation
+Feb. 2022. AI/CS/EE Rising Stars Award \\
+Feb. 2022. I recevied summer research internship offer from <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**Meta AI**</a>, Seattle, WA, USA \\
+Jan. 2022. One paper accepted to **ICLR 2022** as **Spotlight Presentation** \\
+Oct. 2021. Best Presentation Award at KAIST-ADD workshop \\
+Sep. 2021. Two papers accepted to **NeurIPS 2021** as **Spotlight Presentations** \\
+Apr. 2021. Invited Talk at Samsung, Suwon, South Korea \\
+Jan. 2021. One paper accepted to **ICLR 2021** \\
+Dec. 2020. Start of my internship at <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration:none">**AITRICS**</a>, Seoul, South Korea \\
+Dec. 2020. ICML Top Reviewer Award \\
+Nov. 2020. NAVER Ph.D. Fellowship Award \\
+Dec. 2019. One paper accepted to **ICLR 2020** as **Oral Presentation** \\
 
 
 
@@ -75,7 +75,7 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 
 ## Work Experiences
 - Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**Meta AI**</a>, Seattle, WA (expected at Summer 2022)  
-- Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**Aitrics**</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
+- Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
 - Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">**National AI Research Institute**</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
 - Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
 
