@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">Machine Learning and Artificial Intelligence (MLAI) lab</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Prof. Sung Ju Hwang</a>. I interned at <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration:none">AITRICS</a> (Seoul, South Korea, winter 2021) and <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">Meta AI</a> (Seattle, WA, expected at Summer 2022)
+I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I interned at <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration:none">**AITRICS**</a> (Seoul, South Korea, Winter 2021) and <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**Meta AI**</a> (Seattle, WA, expected at Summer 2022)
 
 My research interest includes:
 - Neural architecture search
@@ -60,10 +60,10 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 
 
 ## Work Experiences
-- Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">Meta AI</a>, Seattle, WA (expected at Summer 2022)  
-- Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">Aitrics</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
-- Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">National AI Research Institute</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
-- Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">Samsung Electronics</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
+- Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**Meta AI**</a>, Seattle, WA (expected at Summer 2022)  
+- Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**Aitrics**</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
+- Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">**National AI Research Institute**</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
+- Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
 
 
 ## Awards & Honors
@@ -89,14 +89,14 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 
 ## Academic Services
 **Conference Reviewer**
-- International Conference on Machine Learning (ICML) 2020, 2021 (expert), 2022
-- Neural Information Processing Systems (NeurIPS) 2020, 2021
-- International Conference on Learning Representations (ICLR) 2021, 2022
-- AAAI Conference on Artificial Intelligence (AAAI) 2021
-- Asian Conference on Machine Learning (ACML) 2020
+- International Conference on Machine Learning (**ICML**) 2020, 2021 (expert), 2022
+- Neural Information Processing Systems (**NeurIPS**) 2020, 2021
+- International Conference on Learning Representations (**ICLR**) 2021, 2022
+- AAAI Conference on Artificial Intelligence (**AAAI**) 2021
+- Asian Conference on Machine Learning (**ACML**) 2020
 
 **Journal Reviewer**
-- Transactions on Machine Learning Research (TMLR)
+- Transactions on Machine Learning Research (**TMLR**)
 
 
 
