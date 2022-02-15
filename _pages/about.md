@@ -26,7 +26,7 @@ Jan. 2021. One paper accepted to **ICLR 2021** \\
 Dec. 2020. Start of my internship at **AITRICS**, Seoul, South Korea \\
 Dec. 2020. ICML Top Reviewer Award \\
 Nov. 2020. NAVER Ph.D. Fellowship Award \\
-Dec. 2019. One paper accepted to **ICLR 2020** as _Oral Presentation_ \\
+Dec. 2019. One paper accepted to **ICLR 2020** as _Oral Presentation_ 
 
 
 
@@ -114,6 +114,6 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 
 
 ## Projects
-- Human-Inspired Large-Scale Visual Recognition System, **Samsung Electronics**, 2018-2022
+- Human-Inspired Large-Scale Visual Recognition System, **Samsung Electronics**, 2019-2022
 
 - AutoML with Large-scale Hyperparameter Meta-Learning, **Google**, 2022-Present
