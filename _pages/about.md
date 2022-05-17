@@ -84,7 +84,7 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 - **Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation** \\
 <a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hayeon Lee</u>, Sohyun An, Minseon Kim, Sung Ju Hwang \\
-<span style="color:darkred">**AutoML**</span> 2022
+<span style="color:darkred">**AutoML Workshop**</span> 2022
 
 
 ## Preprints
