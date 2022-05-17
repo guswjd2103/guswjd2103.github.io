@@ -45,7 +45,7 @@ Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral P
 - Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
 
 
-## Conference Publications
+## International Conference Publications
 - **Online Hyperparameter Meta-Learning with Hypergradient Distillation** \\
 <a href="https://arxiv.org/abs/2110.02508" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Hae Beom Lee, <u>Hayeon Lee</u>, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
@@ -75,23 +75,25 @@ Wonyong Jeong\*, <u>Hayeon Lee*</u>, Gun Park\*, Eunyoung Hyung, Jinheon Baek, S
 Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2020, <span style="color:red">_Oral Presentation_</span> (acceptance = 48/2594 = 1.9%)
 
+## Domestic Conference Publications
+
 - **Learning Spatial Relationships for Cross Modal Retrieval** \\
 <u>Hayeon Lee*</u>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**CKAIA**</span> 2020
+CKAIA 2020
 
 
 ## Workshop Publications
 - **Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation** \\
 <a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hayeon Lee</u>, Sohyun An, Minseon Kim, Sung Ju Hwang \\
-<span style="color:darkred">**AutoML Workshop**</span> 2022
+AutoML 2022 Workshop
 
 
 ## Preprints
 - **SuperNet in Neural Architecture Search: A Taxonomic Survey** \\
 <a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
-<span style="color:darkred">**arXiv** </span> 2022
+arXiv 2022
 
 
 ## Awards & Honors
