@@ -91,7 +91,7 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 - **SuperNet in Neural Architecture Search: A Taxonomic Survey** \\
 <a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
-<span style="color:darkred">arXiv </span> 2022
+<span style="color:darkred">**arXiv** </span> 2022
 
 
 ## Awards & Honors
