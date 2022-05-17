@@ -38,6 +38,13 @@ Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral P
 - **B.S.** in Computer Science, <a href="https://www.skku.edu/eng/" style="color: #7289da; text-decoration: none;">**Sungkyunkwan University (SKKU)**</a>, <font size="3">Mar. 2012 - Feb. 2016</font>
 
 
+## Work Experiences
+- Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**Meta AI**</a>, Seattle, WA (expected at Summer 2022)  
+- Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
+- Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">**National AI Research Institute**</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
+- Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
+
+
 ## Conference Publications
 - **Online Hyperparameter Meta-Learning with Hypergradient Distillation** \\
 <a href="https://arxiv.org/abs/2110.02508" style="color: #7289da; text-decoration: none;">[paper]</a> \\
@@ -73,29 +80,38 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 <span style="color:darkred">**CKAIA**</span> 2020
 
 
-## Work Experiences
-- Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**Meta AI**</a>, Seattle, WA (expected at Summer 2022)  
-- Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
-- Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">**National AI Research Institute**</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
-- Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
+## Workshop Publications
+- **Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation** \\
+<a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Hayeon Lee</u>, Sohyun An, Minseon Kim, Sung Ju Hwang \\
+<span style="color:darkred">**AutoML**</span> 2022
+
+
+## Preprints
+- **SuperNet in Neural Architecture Search: A Taxonomic Survey** \\
+<a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
+<span style="color:darkred">arXiv </span> 2022
 
 
 ## Awards & Honors
 - <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">AI/CS/EE Rising Stars 2022 (Sponsored by Google Research; 2022)</a>
 - The Best Presentation Award at KAIST-Korea Agency for Defence Development Workshop (2021)
 - ICML Top Reviewer (2020)
-- NAVER Ph.D. Fellowship Award (2020)
 - ICLR Kyunghyun Cho Travel Grant (2020)
 
-## Talks
+## Invited Talks
 - **"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"** \\
   - @ Samsung Electronics DS DIT Center, Korea, April 2021
   - @ Korea Agency for Defence Development, Korea, October 2021
 - **"Task-Adaptive Neural Network Search with Meta-Contrastive Learning"** \\
   - @ NeurIPS Social: ML in Korea, Dec 2021
+  - @ Hanbat National University in Republic of Korea, April 2022
+
 - **"HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning"** \\
   - @ NeurIPS Social: ML in Korea, Dec 2021
-
+  - @ Hanbat National University in Republic of Korea, April 2022
+  
 
 ## News Articles
 - <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개</a>, AI Times, 2021.12.08
