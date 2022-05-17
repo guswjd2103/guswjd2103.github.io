@@ -75,21 +75,21 @@ Wonyong Jeong\*, <u>Hayeon Lee*</u>, Gun Park\*, Eunyoung Hyung, Jinheon Baek, S
 Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2020, <span style="color:red">_Oral Presentation_</span> (acceptance = 48/2594 = 1.9%)
 
-## Domestic Conference Publications
+## Domestic Conference Publication
 
 - **Learning Spatial Relationships for Cross Modal Retrieval** \\
 <u>Hayeon Lee*</u>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang (\*: equal contribution) \\
 CKAIA 2020
 
 
-## Workshop Publications
+## Workshop Publication
 - **Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation** \\
 <a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hayeon Lee</u>, Sohyun An, Minseon Kim, Sung Ju Hwang \\
 AutoML 2022 Workshop
 
 
-## Preprints
+## Preprint
 - **SuperNet in Neural Architecture Search: A Taxonomic Survey** \\
 <a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
@@ -115,7 +115,7 @@ arXiv 2022
   - @ Hanbat National University in Republic of Korea, April 2022
   
 
-## News Articles
+## News Article
 - <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개</a>, AI Times, 2021.12.08
 
 
