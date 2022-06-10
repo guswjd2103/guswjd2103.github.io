@@ -106,17 +106,24 @@ arXiv 2022
 - **"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"** \\
   - @ Samsung Electronics DS DIT Center, Korea, April 2021
   - @ Korea Agency for Defence Development, Korea, October 2021
+  
 - **"Task-Adaptive Neural Network Search with Meta-Contrastive Learning"** \\
   - @ NeurIPS Social: ML in Korea, Dec 2021
   - @ Hanbat National University in Republic of Korea, April 2022
+  - @ KAIST Programming Language Research Group in Republic of Korea, May 2022
+  - @ Electronic & Information Research Information Center in Republic of Korea, May 2022
 
 - **"HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning"** \\
-  - @ NeurIPS Social: ML in Korea, Dec 2021
+  - @ NeurIPS Social: ML in Republic of Korea, Dec 2021
   - @ Hanbat National University in Republic of Korea, April 2022
+  - @ KAIST Programming Language Research Group in Republic of Korea, May 2022
+  - @ Electronic & Information Research Information Center in Republic of Korea, May 2022
+  - @ Ewha University in Republic of Korea, June 2022
   
 
 ## News Article
 - <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개</a>, AI Times, 2021.12.08
+- <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">"NeurIPS에 소개된 국내 연구 성과는?" EIRIC, 5월부터 리뷰 세미나 개최</a>, AI Times, 2022.04.27
 
 
 ## Academic Services
