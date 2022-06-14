@@ -85,7 +85,7 @@ CKAIA 2020
 ## Workshop Publication
 - **Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation** \\
 <a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Hayeon Lee</u>, Sohyun An, Minseon Kim, Sung Ju Hwang \\
+<u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution)\\
 AutoML 2022 Workshop
 
 
