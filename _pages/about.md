@@ -124,7 +124,7 @@ arXiv 2022
   - @ Ewha University in Republic of Korea, June 2022
   
 
-## News Article
+## News Articles
 - <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개</a>, AI Times, 2021.12.08
 - <a href="http://www.aitimes.com/news/articleView.html?idxno=144306" style="color: #7289da; text-decoration: none;">"NeurIPS에 소개된 국내 연구 성과는?" EIRIC, 5월부터 리뷰 세미나 개최</a>, AI Times, 2022.04.27
 
