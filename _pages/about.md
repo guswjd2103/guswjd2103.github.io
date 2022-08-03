@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I will join <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**Meta AI**</a> (Seattle, WA) as a research intern Summer 2022. My research has been supported by <a style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>.
+I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I will join <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**Meta AI**</a> (Seattle, WA) as a research intern Fall 2022. My research has been supported by <a style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>.
 
 My research interest includes:
 - Neural architecture search
@@ -18,7 +18,7 @@ My research interest includes:
 ## News
 Aug. 2022. Research internship at **Meta AI**, Seattle, WA, USA \\
 Jul. 2022. Recipient of **Google Ph.D. fellowship** \\
-Feb. 2022. AI/CS/EE Rising stars 2022 award by **Google exploreCSR** \\
+Feb. 2022. Recipient of AI/CS/EE Rising stars 2022 award by **Google exploreCSR** \\
 Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span> \\
 Oct. 2021. Best presentation award at KAIST-ADD workshop \\
 Sep. 2021. Two papers accepted to **NeurIPS 2021** as <span style="color:red">Spotlight Presentations</span> \\
@@ -32,15 +32,18 @@ Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral P
 
 
 ## Education
-- **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2018 - Aug. 2023 (expected) </font> 
+- **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
+Mar. 2018 - Aug. 2023 (expected)
   
-- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2016 - Feb. 2018</font> 
+- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
+Mar. 2016 - Feb. 2018
 
-- **B.S.** in Computer Science, <a href="https://www.skku.edu/eng/" style="color: #7289da; text-decoration: none;">**Sungkyunkwan University (SKKU)**</a>, <font size="3">Mar. 2012 - Feb. 2016</font>
+- **B.S.** in Computer Science, <a href="https://www.skku.edu/eng/" style="color: #7289da; text-decoration: none;">**Sungkyunkwan University (SKKU)**</a> \\
+Mar. 2012 - Feb. 2016
 
 
 ## Work Experiences
-- Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**Meta AI**</a>, Seattle, WA (expected at Summer 2022)  
+- Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**Meta AI**</a>, Seattle, WA (expected at Fall 2022)  
 - Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
 - Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">**National AI Research Institute**</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
 - Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
