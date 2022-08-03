@@ -16,7 +16,7 @@ My research interest includes:
 - AutoML
 
 ## News
-Jul. 2022. Google Ph.D. Fellowship
+Jul. 2022. Google Ph.D. Fellowship \\
 Feb. 2022. AI/CS/EE Rising stars 2022 award (sponsored by Google Research) \\
 Feb. 2022. I recevied summer research internship offer from **Meta AI**, Seattle, WA, USA \\
 Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span> \\
