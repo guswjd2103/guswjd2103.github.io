@@ -98,16 +98,16 @@ arXiv 2022
 
 
 ## Awards & Honors
-- **Google Ph.D. Fellowship (2022)**
+- **Google Ph.D. Fellowship (2022)** \\
 - <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a>
 Sponsored by Google Research
-- **The Best Presentation Award** 
+- **The Best Presentation Award** \\
 KAIST-Korea Agency for Defence Development Workshop, 2021
-- **NAVER Ph.D. Fellowship**
+- **NAVER Ph.D. Fellowship** \\
 One of the ten Ph.D. students with outstanding research outcome in KAIST CS Dept., 2020
-- **Outstanding Reviewer (Top 30%)**
+- **Outstanding Reviewer (Top 30%)** \\
 ICML, 2020
-- **Kyunghyun Cho Travel Grant**
+- **Kyunghyun Cho Travel Grant** \\
 ICLR, 2020
 
 ## Invited Talks
