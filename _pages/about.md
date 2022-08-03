@@ -26,7 +26,7 @@ Apr. 2021. Invited talk at Samsung, Suwon, South Korea \\
 Jan. 2021. One paper accepted to **ICLR 2021** \\
 Dec. 2020. Start of my internship at **AITRICS**, Seoul, South Korea \\
 Dec. 2020. ICML oustanding reviewer award \\
-Nov. 2020. NAVER Ph.D. fellowship award \\
+Nov. 2020. Recipient of NAVER Ph.D. fellowship award \\
 Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral Presentation</span>
 
 
