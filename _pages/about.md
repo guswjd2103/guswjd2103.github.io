@@ -30,16 +30,29 @@ Nov. 2020. Recipient of NAVER Ph.D. fellowship \\
 Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral Presentation</span>
 
 
-
 ## Education
-- **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**KAIST**</a> \\
+- **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
 Mar. 2018 - Aug. 2023 (expected)
   
-- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**KAIST**</a> \\
+- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
 Mar. 2016 - Feb. 2018
 
 - **B.S.** in Computer Science, <a href="https://www.skku.edu/eng/" style="color: #7289da; text-decoration: none;">**Sungkyunkwan University**</a> \\
 Mar. 2012 - Feb. 2016
+
+
+## Awards & Honors
+- **Google Ph.D. Fellowship (2022)**
+- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a> \\
+Google exploreCSR, 2022
+- **The Best Presentation Award** \\
+KAIST-Korea Agency for Defence Development Workshop, 2021
+- **NAVER Ph.D. Fellowship** \\
+One of the ten Ph.D. students with outstanding research outcome in KAIST CS Dept., 2020
+- **Outstanding Reviewer (Top 30%)** \\
+ICML, 2020
+- **Kyunghyun Cho Travel Grant** \\
+ICLR, 2020
 
 
 ## Work Experiences
@@ -99,19 +112,6 @@ AutoML 2022 Workshop
 Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
 arXiv 2022
 
-
-## Awards & Honors
-- **Google Ph.D. Fellowship (2022)**
-- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a> \\
-Google exploreCSR, 2022
-- **The Best Presentation Award** \\
-KAIST-Korea Agency for Defence Development Workshop, 2021
-- **NAVER Ph.D. Fellowship** \\
-One of the ten Ph.D. students with outstanding research outcome in KAIST CS Dept., 2020
-- **Outstanding Reviewer (Top 30%)** \\
-ICML, 2020
-- **Kyunghyun Cho Travel Grant** \\
-ICLR, 2020
 
 ## Invited Talks
 - **"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"** \\
