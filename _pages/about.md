@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I will join <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**Meta AI**</a> (Seattle, WA) as a research intern Summer 2022. My research has been supported by <a style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship (2022)**</a>.
+I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I will join <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**Meta AI**</a> (Seattle, WA) as a research intern Summer 2022. My research has been supported by <a style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>.
 
 My research interest includes:
 - Neural architecture search
@@ -16,7 +16,7 @@ My research interest includes:
 - AutoML
 
 ## News
-Jul. 2022. Google Ph.D. Fellowship \\
+Jul. 2022. **Google Ph.D. Fellowship** \\
 Feb. 2022. AI/CS/EE Rising stars 2022 award (sponsored by Google Research) \\
 Feb. 2022. I recevied summer research internship offer from **Meta AI**, Seattle, WA, USA \\
 Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span> \\
@@ -98,12 +98,17 @@ arXiv 2022
 
 
 ## Awards & Honors
-- Google Ph.D. Fellowship (2022)
-- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">AI/CS/EE Rising Stars 2022 (Sponsored by Google Research; 2022)</a>
-- The Best Presentation Award at KAIST-Korea Agency for Defence Development Workshop (2021)
-- NAVER Ph.D. Fellowship (2022)
-- ICML Top Reviewer (2020)
-- ICLR Kyunghyun Cho Travel Grant (2020)
+- **Google Ph.D. Fellowship (2022)**
+- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a>
+Sponsored by Google Research
+- **The Best Presentation Award** 
+KAIST-Korea Agency for Defence Development Workshop, 2021
+- **NAVER Ph.D. Fellowship**
+One of the ten Ph.D. students with outstanding research outcome in KAIST CS Dept., 2020
+- **Outstanding Reviewer (Top 30%)**
+ICML, 2020
+- **Kyunghyun Cho Travel Grant**
+ICLR, 2020
 
 ## Invited Talks
 - **"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"** \\
