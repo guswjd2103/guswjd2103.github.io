@@ -17,7 +17,7 @@ My research interest includes:
 
 ## News
 Jul. 2022. **Google Ph.D. Fellowship** \\
-Feb. 2022. AI/CS/EE Rising stars 2022 award (sponsored by Google Research) \\
+Feb. 2022. AI/CS/EE Rising stars 2022 award \\
 Feb. 2022. I recevied summer research internship offer from **Meta AI**, Seattle, WA, USA \\
 Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span> \\
 Oct. 2021. Best presentation award at KAIST-ADD workshop \\
@@ -98,9 +98,9 @@ arXiv 2022
 
 
 ## Awards & Honors
-- **Google Ph.D. Fellowship (2022)** \\
-- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a>
-Sponsored by Google Research
+- **Google Ph.D. Fellowship (2022)**
+- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a> \\
+Google exploreCSR
 - **The Best Presentation Award** \\
 KAIST-Korea Agency for Defence Development Workshop, 2021
 - **NAVER Ph.D. Fellowship** \\
