@@ -100,7 +100,7 @@ arXiv 2022
 ## Awards & Honors
 - **Google Ph.D. Fellowship (2022)**
 - <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a> \\
-Google exploreCSR
+Google exploreCSR, 2022
 - **The Best Presentation Award** \\
 KAIST-Korea Agency for Defence Development Workshop, 2021
 - **NAVER Ph.D. Fellowship** \\
