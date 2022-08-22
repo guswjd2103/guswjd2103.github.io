@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I will join <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**Meta AI**</a> (Seattle, WA) as a research intern Fall 2022. My research has been supported by <a style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>.
+I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I am interning with <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**Meta AI**</a> (Seattle, WA) (Fall 2022). My research has been supported by <a style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>.
 
 My research interest includes:
 - Neural architecture search
@@ -17,16 +17,16 @@ My research interest includes:
 
 ## News
 Aug. 2022. Research internship at **Meta AI**, Seattle, WA, USA \\
-Jul. 2022. Recipient of **Google Ph.D. fellowship** \\
-Feb. 2022. Recipient of AI/CS/EE Rising stars 2022 award by **Google exploreCSR** \\
+Jul. 2022. **Google Ph.D. fellowship** \\
+Feb. 2022. AI/CS/EE Rising star 2022 supported by **Google exploreCSR** \\
 Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span> \\
 Oct. 2021. Best presentation award at KAIST-ADD workshop \\
 Sep. 2021. Two papers accepted to **NeurIPS 2021** as <span style="color:red">Spotlight Presentations</span> \\
 Apr. 2021. Invited talk at Samsung, Suwon, South Korea \\
 Jan. 2021. One paper accepted to **ICLR 2021** \\
-Dec. 2020. Start of my internship at **AITRICS**, Seoul, South Korea \\
+Dec. 2020. Research internship at AITRICS, Seoul, South Korea \\
 Dec. 2020. ICML oustanding reviewer (Top 30%) \\
-Nov. 2020. Recipient of NAVER Ph.D. fellowship \\
+Nov. 2020. NAVER Ph.D. fellowship \\
 Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral Presentation</span>
 
 
