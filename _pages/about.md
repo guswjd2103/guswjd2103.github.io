@@ -16,8 +16,8 @@ My research interest includes:
 - AutoML
 
 ## News
+Sep. 2022. **Google Ph.D. fellowship (Machine Learning category)** \\
 Aug. 2022. Research internship at **Meta AI**, Seattle, WA, USA \\
-Jul. 2022. **Google Ph.D. fellowship** \\
 Feb. 2022. AI/CS/EE Rising star 2022 supported by **Google exploreCSR** \\
 Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span> \\
 Oct. 2021. Best presentation award at KAIST-ADD workshop \\
@@ -42,7 +42,8 @@ Mar. 2012 - Feb. 2016
 
 
 ## Awards & Honors
-- **Google Ph.D. Fellowship (2022)**
+- <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration: none;">**Google Ph.D. Fellowship  (Machine Learning category)**</a> \\
+One of the three recipients from Republic of Korea, 2022
 - <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a> \\
 Google exploreCSR, 2022
 - **The Best Presentation Award** \\
