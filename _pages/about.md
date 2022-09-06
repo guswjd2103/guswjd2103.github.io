@@ -43,7 +43,7 @@ Mar. 2012 - Feb. 2016
 
 ## Awards & Honors
 - <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration: none;">**Google Ph.D. Fellowship**</a> \\
-One of the three recipients from Republic of Korea, 2022
+One of the five recipients from Republic of Korea, 2022
 - <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a> \\
 Google exploreCSR, 2022
 - **The Best Presentation Award** \\
