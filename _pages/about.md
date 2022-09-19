@@ -57,7 +57,7 @@ ICLR, 2020
 
 
 ## Work Experiences
-- Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**Meta AI**</a>, Seattle, WA (expected at Fall 2022)  
+- Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**Meta AI**</a>, Seattle, WA (Aug 2022 - Dec 2022)  
 - Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
 - Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">**National AI Research Institute**</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
 - Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
