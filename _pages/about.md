@@ -16,6 +16,7 @@ My research interest includes:
 - AutoML
 
 ## News
+Oct. 2022. NeurIPS2022 Top reviewer \\
 Sep. 2022. **Google Ph.D. fellowship** \\
 Aug. 2022. Research internship at **Meta AI**, Seattle, WA, USA \\
 Feb. 2022. AI/CS/EE Rising star 2022 supported by **Google exploreCSR** \\
@@ -25,7 +26,7 @@ Sep. 2021. Two papers accepted to **NeurIPS 2021** as <span style="color:red">Sp
 Apr. 2021. Invited talk at Samsung, Suwon, South Korea \\
 Jan. 2021. One paper accepted to **ICLR 2021** \\
 Dec. 2020. Research internship at AITRICS, Seoul, South Korea \\
-Dec. 2020. ICML oustanding reviewer (Top 30%) \\
+Dec. 2020. ICML2020 oustanding reviewer (Top 30%) \\
 Nov. 2020. NAVER Ph.D. fellowship \\
 Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral Presentation</span>
 
@@ -42,6 +43,8 @@ Mar. 2012 - Feb. 2016
 
 
 ## Awards & Honors
+- <a href="https://nips.cc/Conferences/2022/ProgramCommittee" style="color: #7289da; text-decoration: none;">**Top Reviewer**</a> \\
+NeurIPS, 2022
 - <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration: none;">**Google Ph.D. Fellowship**</a> \\
 One of the five recipients from Republic of Korea, 2022
 - <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a> \\
