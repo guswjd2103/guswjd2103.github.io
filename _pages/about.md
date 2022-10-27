@@ -8,41 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I am interning with <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**Meta AI**</a> (Seattle, WA). My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>.
+I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I obtained my B.S. degrees (Computer Science, Bio & Brain Engineering) at KAIST. If you are interested in my research, please contact me.
 
 My research interest includes:
-- Neural architecture search
+- Adversarial Learning
 - Meta-learning
-- AutoML
+- Self-supervised Learning
 
 ## News
-Oct. 2022. NeurIPS2022 Top reviewer \\
-Sep. 2022. **Google Ph.D. fellowship** \\
-Aug. 2022. Research internship at **Meta AI**, Seattle, WA, USA \\
-Feb. 2022. AI/CS/EE Rising star 2022 supported by **Google exploreCSR** \\
-Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span> \\
-Oct. 2021. Best presentation award at KAIST-ADD workshop \\
-Sep. 2021. Two papers accepted to **NeurIPS 2021** as <span style="color:red">Spotlight Presentations</span> \\
-Apr. 2021. Invited talk at Samsung, Suwon, South Korea \\
-Jan. 2021. One paper accepted to **ICLR 2021** \\
-Dec. 2020. Research internship at AITRICS, Seoul, South Korea \\
-Dec. 2020. ICML2020 oustanding reviewer (Top 30%) \\
-Nov. 2020. NAVER Ph.D. fellowship \\
-Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral Presentation</span>
-
+Oct. 2022. Two paper accepted to **NeurIPS 2022 ML Safety Workshop** \\
 
 ## Education
-- **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
-Mar. 2018 - Aug. 2023 (expected)
-  
-- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
-Mar. 2016 - Feb. 2018
+- **M.S.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
+Mar. 2022 - Present
 
-- **B.S.** in Computer Science, <a href="https://www.skku.edu/eng/" style="color: #7289da; text-decoration: none;">**Sungkyunkwan University**</a> \\
-Mar. 2012 - Feb. 2016
+- **B.S.** in Computer Science, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
+Mar. 2017 - Feb. 2022
 
 
-## Awards & Honors
+<!-- ## Awards & Honors
 - <a href="https://nips.cc/Conferences/2022/ProgramCommittee" style="color: #7289da; text-decoration: none;">**Top Reviewer**</a> \\
 NeurIPS, 2022
 - <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration: none;">**Google Ph.D. Fellowship**</a> \\
@@ -56,17 +40,16 @@ One of the ten Ph.D. students with outstanding research outcome in KAIST CS Dept
 - **Outstanding Reviewer (Top 30%)** \\
 ICML, 2020
 - **Kyunghyun Cho Travel Grant** \\
-ICLR, 2020
+ICLR, 2020 -->
 
 
 ## Work Experiences
-- Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**Meta AI**</a>, Seattle, WA (Aug 2022 - Dec 2022)  
-- Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
-- Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">**National AI Research Institute**</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
-- Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
+- Developer Intern, <a href="https://developers.naver.com/main/" style="color: #7289da; text-decoration: none;">**NAVER**</a>, Seongnam, South Korea (Sep 2020 - Feb 2021)
+- Undergraduate Research Intern, <a href="https://www.kixlab.org/" style="color: #7289da; text-decoration: none;">**KIXLAB, KAIST**</a>, Daejeon, South Korea (July 2020 - Jan 2021)
+- Developer Intern, <a href="https://www.sojunghangeul.com/home/main" style="color: #7289da; text-decoration: none;">**H2K**</a>, Daejeon, South Korea (June 2019 - Dec 2019)
 
 
-## International Conference Publications
+<!-- ## International Conference Publications
 - **Online Hyperparameter Meta-Learning with Hypergradient Distillation** \\
 <a href="https://arxiv.org/abs/2110.02508" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Hae Beom Lee, <u>Hayeon Lee</u>, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
@@ -94,30 +77,37 @@ Wonyong Jeong\*, <u>Hayeon Lee*</u>, Gun Park\*, Eunyoung Hyung, Jinheon Baek, S
 <a href="https://openreview.net/pdf?id=rkeZIJBYvr" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/haebeom-lee/l2b" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**ICLR**</span> 2020, <span style="color:red">_Oral Presentation_</span> (acceptance = 48/2594 = 1.9%)
+<span style="color:darkred">**ICLR**</span> 2020, <span style="color:red">_Oral Presentation_</span> (acceptance = 48/2594 = 1.9%) -->
 
-## Domestic Conference Publication
+<!-- ## Domestic Conference Publication
 
 - **Learning Spatial Relationships for Cross Modal Retrieval** \\
 <u>Hayeon Lee*</u>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang (\*: equal contribution) \\
-CKAIA 2020
+CKAIA 2020 -->
 
 
 ## Workshop Publication
-- **Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation** \\
-<a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution)\\
-AutoML 2022 Workshop
-
+- **Few-shot Transferable Robust Representation Learning via Bilevel Attacks** \\
+<a href="https://arxiv.org/abs/2210.10485" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Minseon Kim*</u>, Hyeonjeong Ha\*, Sung Ju Hwang (\*: equal contribution)\\
+NeurIPS 2022 ML Safety Workshop
+- **Targeted Adversarial Self-Supervised Learning** \\
+<a href="https://arxiv.org/abs/2210.10482" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Minseon Kim</u>, Hyeonjeong Ha, Sung Ju Hwang \\
+NeurIPS 2022 ML Safety Workshop
 
 ## Preprint
-- **SuperNet in Neural Architecture Search: A Taxonomic Survey** \\
-<a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
-arXiv 2022
+- **Few-shot Transferable Robust Representation Learning via Bilevel Attacks** \\
+<a href="https://arxiv.org/abs/2210.10485" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Minseon Kim*</u>, Hyeonjeong Ha\*, Sung Ju Hwang (\*: equal contribution)\\
+Preprint, 2022
+- **Targeted Adversarial Self-Supervised Learning** \\
+<a href="https://arxiv.org/abs/2210.10482" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Minseon Kim</u>, Hyeonjeong Ha, Sung Ju Hwang \\
+Preprint, 2022
 
 
-## Invited Talks
+<!-- ## Invited Talks
 - **"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"** \\
   - @ Samsung Electronics DS DIT Center, Korea, April 2021
   - @ Korea Agency for Defence Development, Korea, October 2021
@@ -133,15 +123,15 @@ arXiv 2022
   - @ Hanbat National University in Republic of Korea, April 2022
   - @ KAIST Programming Language Research Group in Republic of Korea, May 2022
   - @ Electronic & Information Research Information Center in Republic of Korea, May 2022
-  - @ Ewha University in Republic of Korea, June 2022
+  - @ Ewha University in Republic of Korea, June 2022 -->
   
 
-## News Articles
+<!-- ## News Articles
 - <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개</a>, AI Times, 2021.12.08
-- <a href="http://www.aitimes.com/news/articleView.html?idxno=144306" style="color: #7289da; text-decoration: none;">"NeurIPS에 소개된 국내 연구 성과는?" EIRIC, 5월부터 리뷰 세미나 개최</a>, AI Times, 2022.04.27
+- <a href="http://www.aitimes.com/news/articleView.html?idxno=144306" style="color: #7289da; text-decoration: none;">"NeurIPS에 소개된 국내 연구 성과는?" EIRIC, 5월부터 리뷰 세미나 개최</a>, AI Times, 2022.04.27 -->
 
 
-## Academic Services
+<!-- ## Academic Services
 **Conference Reviewer**
 - International Conference on Machine Learning (**ICML**) 2020, 2021 (expert), 2022
 - Neural Information Processing Systems (**NeurIPS**) 2020, 2021, 2022
@@ -156,4 +146,4 @@ arXiv 2022
 ## Projects
 - Human-Inspired Large-Scale Visual Recognition System, **Samsung Electronics**, 2019-2022
 
-- AutoML with Large-scale Hyperparameter Meta-Learning, **Google**, 2022-Present
+- AutoML with Large-scale Hyperparameter Meta-Learning, **Google**, 2022-Present -->
