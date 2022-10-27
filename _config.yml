@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hayeon Lee"
+title                    : "Hyeonjeong Ha"
 title_separator          : "-"
-name                     : &name "Hayeon Lee"
-description              : &description "Ph.D. Student at KAIST"
+name                     : &name "Hyeonjeong Ha"
+description              : &description "M.S. Student at KAIST"
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "github.com/HayeonLee"
+repository               : "github.com/guswjd2103"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : hayeonlee_ai
+  username               : #hayeonlee_ai
 facebook:
   username               :
   app_id                 :
@@ -73,21 +73,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Hayeon Lee"
-  avatar           : "hylee.jpg"
-  bio              : "Ph.D student at School of Computing, Korea Advanced Institute of Science and Technology (KAIST)"
+  name             : "Hyeonjeong Ha"
+  avatar           : "hyeonjeong.jpg"
+  bio              : "M.S. student at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5DaLgBUAAAAJ&hl=ko"
-  email            : "hayeon926@kaist.ac.kr"
+  googlescholar    : #"https://scholar.google.com/citations?user=5DaLgBUAAAAJ&hl=ko"
+  email            : "hyeonjeongha@kaist.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HayeonLee"
+  github           : "guswjd2103"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hayeon-lee-이하연-00b170190"
+  linkedin         : #"hayeon-lee-이하연-00b170190"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hayeonlee_ai"
+  twitter          : #"hayeonlee_ai"
   vine             :
   weibo            :
   xing             :
