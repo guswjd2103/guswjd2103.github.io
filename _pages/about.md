@@ -89,7 +89,7 @@ CKAIA 2020 -->
 ## Workshop Publication
 - **Few-shot Transferable Robust Representation Learning via Bilevel Attacks** \\
 <a href="https://arxiv.org/abs/2210.10485" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-Minseon Kim*, <u>Hyeonjeong Ha\*</u>, Sung Ju Hwang (\*: equal contribution)\\
+Minseon Kim*, <u>Hyeonjeong Ha</u>\*, Sung Ju Hwang (\*: equal contribution)\\
 NeurIPS 2022 ML Safety Workshop
 - **Targeted Adversarial Self-Supervised Learning** \\
 <a href="https://arxiv.org/abs/2210.10482" style="color: #7289da; text-decoration: none;">[paper]</a> \\
@@ -99,7 +99,7 @@ NeurIPS 2022 ML Safety Workshop
 ## Preprint
 - **Few-shot Transferable Robust Representation Learning via Bilevel Attacks** \\
 <a href="https://arxiv.org/abs/2210.10485" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-Minseon Kim*, <u>Hyeonjeong Ha\*</u>, Sung Ju Hwang (\*: equal contribution)\\
+Minseon Kim*, <u>Hyeonjeong Ha</u>\*, Sung Ju Hwang (\*: equal contribution)\\
 Preprint, 2022
 - **Targeted Adversarial Self-Supervised Learning** \\
 <a href="https://arxiv.org/abs/2210.10482" style="color: #7289da; text-decoration: none;">[paper]</a> \\
