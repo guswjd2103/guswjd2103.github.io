@@ -16,13 +16,13 @@ My research interest includes:
 - Self-supervised Learning
 
 ## News
-Oct. 2022. Two paper accepted to **NeurIPS 2022 ML Safety Workshop** \\
+Oct. 2022. Two paper accepted to **NeurIPS 2022 ML Safety Workshop**
 
 ## Education
 - **M.S.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
 Mar. 2022 - Present
 
-- **B.S.** in Computer Science, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
+- **B.S.** in Computer Science (major) and Bio & Brain Engineering (minor), <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
 Mar. 2017 - Feb. 2022
 
 
@@ -89,21 +89,21 @@ CKAIA 2020 -->
 ## Workshop Publication
 - **Few-shot Transferable Robust Representation Learning via Bilevel Attacks** \\
 <a href="https://arxiv.org/abs/2210.10485" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Minseon Kim*</u>, Hyeonjeong Ha\*, Sung Ju Hwang (\*: equal contribution)\\
+Minseon Kim*, <u>Hyeonjeong Ha\*</u>, Sung Ju Hwang (\*: equal contribution)\\
 NeurIPS 2022 ML Safety Workshop
 - **Targeted Adversarial Self-Supervised Learning** \\
 <a href="https://arxiv.org/abs/2210.10482" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Minseon Kim</u>, Hyeonjeong Ha, Sung Ju Hwang \\
+Minseon Kim, <u>Hyeonjeong Ha</u>, Sung Ju Hwang \\
 NeurIPS 2022 ML Safety Workshop
 
 ## Preprint
 - **Few-shot Transferable Robust Representation Learning via Bilevel Attacks** \\
 <a href="https://arxiv.org/abs/2210.10485" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Minseon Kim*</u>, Hyeonjeong Ha\*, Sung Ju Hwang (\*: equal contribution)\\
+Minseon Kim*, <u>Hyeonjeong Ha\*</u>, Sung Ju Hwang (\*: equal contribution)\\
 Preprint, 2022
 - **Targeted Adversarial Self-Supervised Learning** \\
 <a href="https://arxiv.org/abs/2210.10482" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Minseon Kim</u>, Hyeonjeong Ha, Sung Ju Hwang \\
+Minseon Kim, <u>Hyeonjeong Ha</u>, Sung Ju Hwang \\
 Preprint, 2022
 
 
