@@ -11,12 +11,13 @@ redirect_from:
 I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I obtained my B.S. degrees (Computer Science, Bio & Brain Engineering) at KAIST. If you are interested in my research, please contact me.
 
 My research interest includes:
-- Adversarial Learning
+- Adversarial Learning 
 - Meta-Learning
 - Self-Supervised Learning
 
 ## News
-Oct. 2022. Two paper accepted to **NeurIPS 2022 ML Safety Workshop**
+Jun. 2023. One paper accepted to **ICML 2023 AdvML-Frontiers' Workshop**
+Oct. 2022. Two papers accepted to **NeurIPS 2022 ML Safety Workshop**
 
 ## Education
 - **M.S.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
@@ -87,6 +88,10 @@ CKAIA 2020 -->
 
 
 ## Workshop Publication
+- **Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations** \\
+<a href="https://arxiv.org/abs/2306.05031" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Hyeonjeong Ha</u>\*, Minseon Kim*, Sung Ju Hwang (\*: equal contribution)\\
+ICML 2023 The 2ND New Frontiers in Adversarial Machine Learning Workshop
 - **Few-shot Transferable Robust Representation Learning via Bilevel Attacks** \\
 <a href="https://arxiv.org/abs/2210.10485" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hyeonjeong Ha</u>\*, Minseon Kim*, Sung Ju Hwang (\*: equal contribution)\\
@@ -97,6 +102,10 @@ Minseon Kim, <u>Hyeonjeong Ha</u>, Sung Ju Hwang \\
 NeurIPS 2022 ML Safety Workshop
 
 ## Preprint
+- **Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations** \\
+<a href="https://arxiv.org/abs/2306.05031" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Hyeonjeong Ha</u>\*, Minseon Kim*, Sung Ju Hwang (\*: equal contribution)\\
+Preprint, 2023
 - **Few-shot Transferable Robust Representation Learning via Bilevel Attacks** \\
 <a href="https://arxiv.org/abs/2210.10485" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hyeonjeong Ha</u>\*, Minseon Kim*, Sung Ju Hwang (\*: equal contribution)\\
