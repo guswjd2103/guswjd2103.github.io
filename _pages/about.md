@@ -87,7 +87,7 @@ Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eu
 CKAIA 2020 -->
 
 
-## Workshop Publication
+## Publication
 - **Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations** \\
 <a href="https://arxiv.org/abs/2306.05031" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hyeonjeong Ha</u>\*, Minseon Kim*, Sung Ju Hwang (\*: equal contribution)\\
@@ -101,7 +101,13 @@ NeurIPS 2022 ML Safety Workshop
 Minseon Kim, <u>Hyeonjeong Ha</u>, Sung Ju Hwang \\
 NeurIPS 2022 ML Safety Workshop
 
-## Preprint
+
+## Academic Services
+- **Reviewer**
+   - **ICML** 2023
+   - **NeurIPS** 2023
+   -  
+<!--## Preprint
 - **Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations** \\
 <a href="https://arxiv.org/abs/2306.05031" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hyeonjeong Ha</u>\*, Minseon Kim*, Sung Ju Hwang (\*: equal contribution)\\
