@@ -106,6 +106,8 @@ NeurIPS 2022 ML Safety Workshop
 - **Reviewer**
    - **ICML** 2023
    - **NeurIPS** 2023
+ 
+
 <!--## Preprint
 - **Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations** \\
 <a href="https://arxiv.org/abs/2306.05031" style="color: #7289da; text-decoration: none;">[paper]</a> \\
@@ -118,7 +120,7 @@ Preprint, 2022
 - **Targeted Adversarial Self-Supervised Learning** \\
 <a href="https://arxiv.org/abs/2210.10482" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Minseon Kim, <u>Hyeonjeong Ha</u>, Sung Ju Hwang \\
-Preprint, 2022
+Preprint, 2022-->
 
 
 <!-- ## Invited Talks
