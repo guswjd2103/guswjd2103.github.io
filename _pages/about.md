@@ -16,8 +16,8 @@ My research interest includes:
 - Self-Supervised Learning
 
 ## News
-Jun. 2023. One paper accepted to **ICML 2023 AdvML-Frontiers' Workshop** \\
-Oct. 2022. Two papers accepted to **NeurIPS 2022 ML Safety Workshop**
+🔥 Jun. 2023. One paper accepted to **ICML 2023 AdvML-Frontiers' Workshop** \\
+🔥 Oct. 2022. Two papers accepted to **NeurIPS 2022 ML Safety Workshop**
 
 ## Education
 - **M.S.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
