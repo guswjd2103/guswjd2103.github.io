@@ -11,7 +11,8 @@ redirect_from:
 I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I obtained my B.S. degrees (Computer Science, Bio & Brain Engineering) at KAIST. If you are interested in my research, please contact me. Here is my <a href="https://drive.google.com/file/d/1rbBOOGYCODVL4Y3uZUX5E9fqsJ09_uHb/view?usp=sharing" style="color: #7289da; text-decoration:none">**CV**</a>.
 
 My research interest includes:
-- Adversarial Learning 
+- Robustness & Generalization
+- Efficient machine learning
 - Meta-Learning
 - Self-Supervised Learning
 
