@@ -13,8 +13,8 @@ I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 My research interest includes:
 - Robustness & Generalization
 - Efficient machine learning
-- Meta-Learning
-- Self-Supervised Learning
+- Meta-learning
+- Self-supervised learning
 
 ## News
 🔥 Jun. 2023. One paper accepted to **ICML 2023 AdvML-Frontiers' Workshop** \\
