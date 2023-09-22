@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I obtained my B.S. degrees (Computer Science, Bio & Brain Engineering) at KAIST. If you are interested in my research, please contact me. Here is my <a href="https://drive.google.com/file/d/1xe0pOSLGPqA-gCDfQwwhv3f2lIFvJfl9/view?usp=sharing" style="color: #7289da; text-decoration:none">**CV**</a>.
+I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I obtained my B.S. degrees (Computer Science, Bio & Brain Engineering) at KAIST. Recently, I've been interested in improving the foundation models with effective but limited data. If you are interested in collaborating with me on research projects related to robustness and data-efficient machine learning, please contact me. Here is my <a href="https://drive.google.com/file/d/1xe0pOSLGPqA-gCDfQwwhv3f2lIFvJfl9/view?usp=sharing" style="color: #7289da; text-decoration:none">**CV**</a>.
 
 My research interest includes:
-- Robustness & Generalization
-- Efficient machine learning
-- Meta-learning
-- Self-supervised learning
+- Robustness & generalization on unseen domains and distribution shift
+- Data-efficient machine learning
 
 ## News
+🔥 Sep. 2023. Two paper accepted to **NeurIPS 2023 Conference** \\
 🔥 Jun. 2023. One paper accepted to **ICML 2023 AdvML-Frontiers' Workshop** \\
 🔥 Oct. 2022. Two papers accepted to **NeurIPS 2022 ML Safety Workshop**
 
@@ -92,6 +91,7 @@ CKAIA 2020 -->
 - **Generalizable Lightweight Proxy for Robust NAS against Diverse Perturbations** \\
 <a href="https://arxiv.org/abs/2306.05031" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hyeonjeong Ha</u>\*, Minseon Kim*, Sung Ju Hwang (\*: equal contribution)\\
+NeurIPS 2023 \\
 ICML 2023 The 2ND New Frontiers in Adversarial Machine Learning Workshop
 - **Few-shot Transferable Robust Representation Learning via Bilevel Attacks** \\
 <a href="https://arxiv.org/abs/2210.10485" style="color: #7289da; text-decoration: none;">[paper]</a> \\
@@ -100,6 +100,7 @@ NeurIPS 2022 ML Safety Workshop
 - **Targeted Adversarial Self-Supervised Learning** \\
 <a href="https://arxiv.org/abs/2210.10482" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Minseon Kim, <u>Hyeonjeong Ha</u>, Sung Ju Hwang \\
+NeurIPS 2023 \\
 NeurIPS 2022 ML Safety Workshop
 
 
