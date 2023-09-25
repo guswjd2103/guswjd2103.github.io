@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I obtained my B.S. degrees (Computer Science, Bio & Brain Engineering) at KAIST. Recently, I've been interested in improving the foundation models with effective but limited data. If you are interested in collaborating with me on research projects related to robustness and data-efficient machine learning, please contact me. Here is my <a href="https://drive.google.com/file/d/1xe0pOSLGPqA-gCDfQwwhv3f2lIFvJfl9/view?usp=sharing" style="color: #7289da; text-decoration:none">**CV**</a>.
+I'm a M.S. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I obtained my B.S. degrees (Computer Science, Bio & Brain Engineering) at KAIST. Recently, I've been interested in improving the foundation models with effective but limited data. If you are interested in collaborating with me on research projects related to robustness and data-efficient machine learning, please contact me. Here is my <a href="https://drive.google.com/file/d/1yO5iw0dJnT0Nu_nwxKoBXYW9ljApUv-y/view?usp=sharing" style="color: #7289da; text-decoration:none">**CV**</a>.
 
 My research interest includes:
 - Robustness & generalization on unseen domains and distribution shift
